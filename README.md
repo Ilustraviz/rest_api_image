@@ -1,10 +1,10 @@
 # Rest API Image
 Documentation Ilustraviz Rest API
 
-##Variables
+## Variables
 {} indicates a use of variable
 
-##Getting a single product
+## Getting a single product
 Product it`s a info and images of product
 
 Method: GET
@@ -67,7 +67,7 @@ Return:
 ```
 
 
-##Getting groups
+## Getting groups
 Group is the conjunt of clients or finals application group. 
 Each product is associate to a group.
 Groups are very interessanting to separate final clients images.
@@ -98,7 +98,8 @@ Return:
 }
 ```
 
-##Getting products in group
+
+## Getting products in group
 Get all products associate of a group.
 
 Method: GET
