@@ -1,0 +1,19 @@
+.image{
+    display: flex;
+    position: relative;
+    height: 900px;
+}
+.image img{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.listColor div{
+    float: left;
+    min-width: 200px;
+}
+.listColor div ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
